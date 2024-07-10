@@ -15,7 +15,7 @@ OutbreakInvestigator is a comprehensive project designed to identify the infecti
 
 ## Project Overview
 
-OutbreakInvestigator aims to provide a robust and reliable methodology for identifying and characterizing pathogens responsible for infectious disease outbreaks. The project is divided into the following main steps:
+OutbreakInvestigator aims to provide a robust and reliable methodology for identifying and characterizing pathogens responsible for infectious disease outbreaks. This project was developed for the BIOL 7210 (Computational Genomics) course, with the required FASTQ files and supplementary sample information provided by the professor. The project is divided into the following main steps:
 
 ### 1. QC and Assembly
 Quality control and assembly of sequencing data are crucial first steps in the identification process. This step involves cleaning the raw sequencing data and assembling the genome sequences to facilitate downstream analyses.
